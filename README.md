@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @Mikea15
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Mikea15/Mikea15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in video games, programming, game ai.
+- 🌱 I’m currently learning goap, utility reasoning, behaviors, programming languages (rust/zig)
+- 📫 How to reach me twitter @michaeladaixo or via email.
