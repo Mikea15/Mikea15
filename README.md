@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Mikea15
-- 👀 Sometimes [I blog](mikeadev.net) about games, programming, game ai
+- 👀 Sometimes [I blog](http://mikeadev.net) about games, programming, game ai
 - 🌱 I like to learn new and interesting things, currently Go/Zig, Utility Reasoning, GOAP, ..
-- 📫 Contacts via email or [X](x.com/michaeladaixo)
+- 📫 Contacts via email or [X](http://x.com/michaeladaixo)
