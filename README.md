@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Mikea15
-- 👀 I’m interested in video games, programming, game ai.
-- 🌱 I’m currently learning goap, utility reasoning, behaviors, programming languages (rust/zig)
-- 📫 How to reach me twitter @michaeladaixo or via email.
+- 👀 Sometimes [I blog](mikeadev.net) about games, programming, game ai
+- 🌱 I like to learn new and interesting things, currently Go/Zig, Utility Reasoning, GOAP, ..
+- 📫 Contacts via email or [X](x.com/michaeladaixo)
